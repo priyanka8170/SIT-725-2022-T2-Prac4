@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/priyanka8170/SIT-725-2022-T2-Prac3.git"
+    "url": "git+https://github.com/priyanka8170/SIT-725-2022-T2-Prac4.git"
   },
   "keywords":[​
 
@@ -27,9 +27,9 @@
    "author": "Priyanka",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/priyanka8170/SIT-725-2022-T2-Prac3/issues"
+    "url": "https://github.com/priyanka8170/SIT-725-2022-T2-Prac4/issues"
   },
-  "homepage": "https://github.com/priyanka8170/SIT-725-2022-T2-Prac3#readme",
+  "homepage": "https://github.com/priyanka8170/SIT-725-2022-T2-Prac4#readme",
   "dependencies": {
     "express": "^4.18.1"
   }

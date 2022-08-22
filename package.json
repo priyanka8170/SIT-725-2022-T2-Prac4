@@ -1,7 +1,7 @@
 {
   "name": "package.json",
   "version": "1.0.0",
-  "description": "week 3",
+  "description": "week 4",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,19 +10,8 @@
     "type": "git",
     "url": "git+https://github.com/priyanka8170/SIT-725-2022-T2-Prac4.git"
   },
-  "keywords":[​
-
-    "Nodejs"​
-
-    "Express"​
-
-    "Materialize"​
-
-    "HTML"​
-
-    "JS"​
-
-    "CSS"
+  "keywords":[
+    "express"
 ],
    "author": "Priyanka",
   "license": "MIT",
@@ -31,7 +20,9 @@
   },
   "homepage": "https://github.com/priyanka8170/SIT-725-2022-T2-Prac4#readme",
   "dependencies": {
-    "express": "^4.18.1"
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "mongodb": "^4.8.1"
   }
 }
 
